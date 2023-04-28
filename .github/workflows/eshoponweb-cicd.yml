@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 0d2f15d9-dc27-45e4-a0a5-0830678fd746
-  WEBAPP-NAME: az400-webapp-durgaprasad
+  WEBAPP-NAME: az400-webapp-durga
 
 
 jobs:
